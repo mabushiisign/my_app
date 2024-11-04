@@ -1,6 +1,8 @@
 # my_app
 
-A new Flutter project.
+Flutterの練習用プロジェクト
+
+- 参考書籍「Flutter実践開発」
 
 ## Getting Started
 
